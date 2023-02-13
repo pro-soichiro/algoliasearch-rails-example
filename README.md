@@ -25,7 +25,7 @@ gem 'hogan_assets'
 Installation
 --------------
 
-* ```git clone https://github.com/algolia/algoliasearch-rails-example.git```
+* ```git clone https://github.com/pro-soichiro/algoliasearch-rails-example```
 *  ```bundle install```
 
 Populate your DB and start indexing
